@@ -61,7 +61,7 @@ body {
 }
 .list-element {
   list-style: none;
-  min-height: 600px;
+  height: 640px;
   background-color: #fff;
   border-radius: 10px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
@@ -102,6 +102,9 @@ body {
 .delete-btn:hover {
   color: #fff;
   background-color: #10b981;
+}
+.increase {
+  height: 840px;
 }
 .hidden {
   display: none;
